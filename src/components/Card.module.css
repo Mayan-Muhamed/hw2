@@ -1,0 +1,13 @@
+.card span{
+    padding-left: 20px;
+}
+h2 {
+    text-align: center;
+}
+
+button{
+    background-color: black;
+    color: white;
+    border-style: solid;
+    border-radius: 5%;
+}
